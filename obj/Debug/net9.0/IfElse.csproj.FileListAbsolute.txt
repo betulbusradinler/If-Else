@@ -1,0 +1,14 @@
+D:\PatikaDev C#\IfElse\bin\Debug\net9.0\IfElse.exe
+D:\PatikaDev C#\IfElse\bin\Debug\net9.0\IfElse.deps.json
+D:\PatikaDev C#\IfElse\bin\Debug\net9.0\IfElse.runtimeconfig.json
+D:\PatikaDev C#\IfElse\bin\Debug\net9.0\IfElse.dll
+D:\PatikaDev C#\IfElse\bin\Debug\net9.0\IfElse.pdb
+D:\PatikaDev C#\IfElse\obj\Debug\net9.0\IfElse.GeneratedMSBuildEditorConfig.editorconfig
+D:\PatikaDev C#\IfElse\obj\Debug\net9.0\IfElse.AssemblyInfoInputs.cache
+D:\PatikaDev C#\IfElse\obj\Debug\net9.0\IfElse.AssemblyInfo.cs
+D:\PatikaDev C#\IfElse\obj\Debug\net9.0\IfElse.csproj.CoreCompileInputs.cache
+D:\PatikaDev C#\IfElse\obj\Debug\net9.0\IfElse.dll
+D:\PatikaDev C#\IfElse\obj\Debug\net9.0\refint\IfElse.dll
+D:\PatikaDev C#\IfElse\obj\Debug\net9.0\IfElse.pdb
+D:\PatikaDev C#\IfElse\obj\Debug\net9.0\IfElse.genruntimeconfig.cache
+D:\PatikaDev C#\IfElse\obj\Debug\net9.0\ref\IfElse.dll
