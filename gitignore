@@ -1,15 +1,6 @@
 # .NET / ASP.NET
 bin/
 obj/
-*.dll
-*.exe
-*.pdb
-*.user
-*.userosscache
-*.suo
-.vs/
-.idea/
-.vscode/
 
 # NuGet
 packages/
